@@ -24,6 +24,6 @@ we can then use a hashtag lookup function for "#views" to find these twoots cont
 
 ![](hashtagLookupPNG.png)
 
-Here is our Twoot Database YAMl for the given example:
+Here is our Twoot Database YAML for the given example:
 
 ![](twootBasePNG.png)
