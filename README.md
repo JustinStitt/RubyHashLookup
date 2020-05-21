@@ -9,7 +9,7 @@ I have devised a system to allow efficient Hashtag lookup using a Ruby Hash to s
 When a twoot is posted it will automatically have its message parsed for any hashtags. If hashtags are present, they are spliced and hashed with the message being appended
 to a global twoot database.
 
-The Ruby Hash is serialized using YAML which allows for saving and opening of the hash to keep a running, consisten tally of all messages containing
+The Ruby Hash is serialized using YAML which allows for saving and opening of the hash to keep a running, consistent tally of all messages containing
 a specific hash.
 
 **EXAMPLE**
